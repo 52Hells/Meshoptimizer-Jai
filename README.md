@@ -1,1 +1,1 @@
-# Meshoptimizer-Jai
+meshoptimizer 1.3
